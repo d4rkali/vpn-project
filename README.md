@@ -1,4 +1,4 @@
-# \# VPN Project — BS Cyber Security Semester 6
+# \# VPN Project — BS Cyber Security Semester 4
 
 # 
 
